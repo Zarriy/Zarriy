@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript and Web. 
 - 🌱 I’m currently learning React.JS.
 - 💞️ I’m looking to collaborate on React.JS framwork and JS. 
-- 📫 You can reach me @ zarriy.com
+- 📫 You can reach me @ https://zarriy.com/
 
 <!---
 Zarriy/Zarriy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
