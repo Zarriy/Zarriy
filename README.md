@@ -109,10 +109,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarriy&&theme=buefy&&hide_border=true" />
 </picture>
 
-# Languages Used Frequently 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarriy" />
-  </p>
 
 
 <!---
